@@ -24,3 +24,4 @@ function handleBodyColorStop() {
   btnStart.removeAttribute('disabled');
   clearInterval(invervalID);
 }
+
